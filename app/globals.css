@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 * {
-  font-family: var(--font-outfi);
+  font-family: var(--font-outfit);
 }
 
 /* :root {
